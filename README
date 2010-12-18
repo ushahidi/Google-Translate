@@ -1,0 +1,1 @@
+This plugin integrates Google Language Translation with any SwiftRiver app.  It allows the user to push verified content from Sweeper to Ushahidi or Crowdmap.  To install just extract and add the  'GoogleLanguageServiceInterface' folder to the '..core/modules/' directory of your SwiftRiver application.
